@@ -5,3 +5,6 @@ kaggle.json
 pseudocodigo/
 C1DS-Price_Analysis.pdf
 page_1.png
+
+# datos derivados generados por los notebooks
+data/processed/
